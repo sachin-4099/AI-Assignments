@@ -1,0 +1,113 @@
+
+Output-1:
+Player 1 chooses Heads
+Tossing the coin: Heads it is
+Player 1 wins the toss
+
+Player 1 picks 1 stick
+Sticks left: 13
+Player 2 picks 3 sticks
+Sticks left: 10
+Player 1 picks 1 stick
+Sticks left: 9
+Player 2 picks 3 sticks
+Sticks left: 6
+Player 1 picks 1 stick
+Sticks left: 5
+Player 2 picks 3 sticks
+Sticks left: 2
+Player 1 picks 1 stick
+Sticks left: 1
+Player 2 picks 1 stick
+Sticks left: 0
+Player 1 WINS
+
+Output-2:
+Player 1 chooses Heads
+Tossing the coin: Tails it is
+Player 2 wins the toss
+
+Player 2 picks 3 sticks
+Sticks left: 18
+Player 1 picks 1 stick
+Sticks left: 17
+Player 2 picks 3 sticks
+Sticks left: 14
+Player 1 picks 1 stick
+Sticks left: 13
+Player 2 picks 3 sticks
+Sticks left: 10
+Player 1 picks 1 stick
+Sticks left: 9
+Player 2 picks 3 sticks
+Sticks left: 6
+Player 1 picks 1 stick
+Sticks left: 5
+Player 2 picks 3 sticks
+Sticks left: 2
+Player 1 picks 1 stick
+Sticks left: 1
+Player 2 picks 1 stick
+Sticks left: 0
+Player 1 WINS
+
+Output-3:
+Player 1 chooses Heads
+Tossing the coin: Heads it is
+Player 1 wins the toss
+
+Player 1 picks 3 sticks
+Sticks left: 50
+Player 2 picks 1 stick
+Sticks left: 49
+Player 1 picks 3 sticks
+Sticks left: 46
+Player 2 picks 1 stick
+Sticks left: 45
+Player 1 picks 3 sticks
+Sticks left: 42
+Player 2 picks 1 stick
+Sticks left: 41
+Player 1 picks 3 sticks
+Sticks left: 38
+Player 2 picks 1 stick
+Sticks left: 37
+Player 1 picks 3 sticks
+Sticks left: 34
+Player 2 picks 1 stick
+Sticks left: 33
+Player 1 picks 3 sticks
+Sticks left: 30
+Player 2 picks 1 stick
+Sticks left: 29
+Player 1 picks 3 sticks
+Sticks left: 26
+Player 2 picks 1 stick
+Sticks left: 25
+Player 1 picks 3 sticks
+Sticks left: 22
+Player 2 picks 1 stick
+Sticks left: 21
+Player 1 picks 3 sticks
+Sticks left: 18
+Player 2 picks 1 stick
+Sticks left: 17
+Player 1 picks 3 sticks
+Sticks left: 14
+Player 2 picks 1 stick
+Sticks left: 13
+Player 1 picks 3 sticks
+Sticks left: 10
+Player 2 picks 1 stick
+Sticks left: 9
+Player 1 picks 3 sticks
+Sticks left: 6
+Player 2 picks 1 stick
+Sticks left: 5
+Player 1 picks 3 sticks
+Sticks left: 2
+Player 2 picks 1 stick
+Sticks left: 1
+Player 1 picks 1 stick
+Sticks left: 0
+Player 2 WINS
